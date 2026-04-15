@@ -1,6 +1,5 @@
 # Supply-Chain-Performance-Analysis
 This project focuses on analyzing the logistical and commercial performance of a multi-regional supply chain using Tableau Desktop. Interactive dashboards were built to monitor key metrics such as revenue, costs, delivery time, and cancellation rate.
-<img width="1336" height="588" alt="CASupply_chain" src="https://github.com/user-attachments/assets/958a47b9-cec4-490f-a977-1b9d4938fed1" />
 
 ## 📌 Project Overview
 This project analyzes the logistical and commercial performance of a multi-regional supply chain using Tableau Desktop. Interactive dashboards were developed to monitor key KPIs such as revenue, costs, delivery time, and cancellation rate.
